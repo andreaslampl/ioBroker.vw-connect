@@ -10,6 +10,7 @@ EU Data Act portal (15-min data request). Used by ioBroker.energie (car SOC) and
   https://eu-data-act.vwgroup-datahub.com/de/en/user.html)". `PORTAL_ORIGINS` (old + new), `loginCompletionRedirect` accepts
   both, `this.base` = origin the login ended on, used for all portal API calls. Unit test in test/unit/euDataActLogin.test.js.
   Confirmed on the owner's ioBroker: connects again with 0.10.2-beta.0.
+  Submitted upstream as a pull request (branch fix/eu-data-act-new-host, fix commit only) - back to upstream once released.
 
 ## Conventions
 
