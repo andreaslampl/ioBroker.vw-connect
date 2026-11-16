@@ -1,8 +1,12 @@
 {
   "common": {
     "name": "vw-connect",
-    "version": "0.10.1",
+    "version": "0.10.2-beta.0",
     "news": {
+      "0.10.2-beta.0": {
+        "en": "EU Data Act: accept the portal's new host eu-data-act.vwgroup-datahub.com (login ended with 'Login did not complete ... user.html')",
+        "de": "EU Data Act: neue Portal-Adresse eu-data-act.vwgroup-datahub.com wird akzeptiert (Anmeldung endete mit 'Login did not complete ... user.html')"
+      },
       "0.10.1": {
         "en": "EU Data Act: support VW's new Auth0 login (CUPRA/SEAT and more brands); fixes the 'missing hmac/_csrf' login error",
         "de": "EU Data Act: Unterstützung für VWs neuen Auth0-Login (CUPRA/SEAT und weitere Marken); behebt den 'missing hmac/_csrf'-Login-Fehler",
